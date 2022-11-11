@@ -1,0 +1,13 @@
+* if we have to instal any function use (pip install lambda)
+# Matches and Innings
+
+# Matches : Included playing xi
+# Innings: When he gets a chance to bat
+
+# Batting Averages: Runs/Dismissals
+# Batting Strikerate: (Runs/Balls)*100
+# Runs per Innings: Runs/Innings
+# Balls per Boundary: balls/(fours + sixes)
+# Dots% = total_dots/balls
+# Boundary% = total_boundary/balls
+# Non-boundary% = (0s + 1s + 2s + 3s )/balls

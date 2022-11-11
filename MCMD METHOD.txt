@@ -1,0 +1,19 @@
+ 1) multi criteria decision making 
+* buy  car?
+.price range
+.brands
+.colors
+.mileage
+.seating capacity
+.emi
+
+* MCDM Approaches:
+We will be covering the following :
+. Saaty scale for heirarchy
+. Piarwise matrices to determine weights
+
+*MCDM method in 4 ste:- ps
+. Saaty scale :- We use ths scale to dertermine importances.
+.Chooe the variables :- Identify the variable for the given problem statement.
+.Determine the weights of each variable:- We use pairwise matrices to get the weighs/coefficients for each variable
+.Arrive at the final score using weights :- Once we arrive at the weights,we use these and evaluate each & every option.
